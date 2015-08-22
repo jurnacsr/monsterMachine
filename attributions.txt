@@ -1,0 +1,5 @@
+ATTRIBUTIONS:
+
+Big.js - http://mikemcl.github.io/big.js
+
+Fake Music Generator - http://www.fakemusicgenerator.com/ - for the amazing music

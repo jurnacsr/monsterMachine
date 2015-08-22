@@ -1,0 +1,5 @@
+var UPGRADES = {
+	generator: {
+		
+	}
+}
